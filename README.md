@@ -8,9 +8,5 @@ Dữ liệu được sử dụng trong dự án có thể tải về từ địa
 [Link đến dữ liệu](https://studenthcmusedu-my.sharepoint.com/:f:/g/personal/22110158_student_hcmus_edu_vn/Ev5OJGCfJRlHs2KyH_vTbvkBpFNXkX5o8Lj0nYt4f_p8Ug?e=zfgv5d)
 
 
-
-
-
 # python-project
-# python-project
-# python-project
+
