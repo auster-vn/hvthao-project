@@ -1,0 +1,12 @@
+venv/
+
+*.log
+*.tar
+
+.DS_Store
+Thumbs.db
+
+*.pyc
+__pycache__/
+*.pkl
+*.csv
