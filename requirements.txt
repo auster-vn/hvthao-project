@@ -1,4 +1,6 @@
 lightfm
+dotenv
+streamlit
 numpy
 pandas
 scikit-learn
